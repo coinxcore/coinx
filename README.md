@@ -11,7 +11,7 @@ We release code and wallets soon!
 
 ===================================
 
-- Info -
+== Info ==
 
 Name: CoinX
 
